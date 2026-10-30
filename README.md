@@ -2,7 +2,7 @@
 
 **Use [WALKAROO-FINAL.zip](https://github.com/jumanshakir-alan/walkaroo-pivot/blob/deliver/walkaroo-final-20261030/WALKAROO-FINAL.zip).**
 
-Latest UI update: the Excel/pivot sidebar is light grey (#f1f2f4), with red selection styling retained. The Excel/pivot workspace Data connections page now shows the Excel archive only. Fabric setup remains under Analytics Studio → Fabric connections. [Small UI-only update for existing installs](WALKAROO-UI-UPDATE.zip).
+Latest UI update: the Excel/pivot sidebar is light grey (#f1f2f4), with red selection styling retained, refined spacing, clearer headings, comfortable controls and softer card shadows. The Excel/pivot workspace Data connections page now shows the Excel archive only. Fabric setup remains under Analytics Studio → Fabric connections. [Small UI-only update for existing installs](WALKAROO-UI-UPDATE.zip).
 
 This is the complete latest package, including the logo URL, red/white/charcoal redesign, folder picker, dashboards, Fabric connector options and role permissions. Older ZIPs are retained as previous versions; they are not needed for this installation.
 
