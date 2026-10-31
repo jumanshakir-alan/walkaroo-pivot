@@ -2,7 +2,7 @@
 
 **Use [WALKAROO-FINAL.zip](https://github.com/jumanshakir-alan/walkaroo-pivot/blob/deliver/walkaroo-final-20261030/WALKAROO-FINAL.zip).**
 
-Latest UI update: compact, accessible Data connections with ~36px desktop file rows, aligned folder actions, import controls above the list and keyboard bulk selection. [UI-only update for existing installs](WALKAROO-UI-UPDATE.zip).
+Latest UI update (31 October 2026): Back to Analytics Studio is below the logo in the sidebar. The report builder keeps Run/Save reachable and uses clearer field, filter and result layouts. The compact Data connections list remains included. [UI-only update for existing installs](WALKAROO-UI-UPDATE.zip).
 
 This is the complete latest package, including the logo URL, red/white/charcoal redesign, folder picker, dashboards, Fabric connector options and role permissions. Older ZIPs are retained as previous versions; they are not needed for this installation.
 
@@ -37,3 +37,9 @@ Synthetic test data is shown below. The preview uses the offline text logo fallb
 Synthetic workbook data is shown in this UI preview.
 
 ![Compact workbook list](Walkaroo-Data-Connections.png)
+
+## Report workspace
+
+Synthetic data is shown; the logo uses its offline text fallback in this cloud preview.
+
+![Sidebar return link and report workspace](Walkaroo-Report-Workspace.png)
